@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dstime.tk</id>
+    <id>https://dstime</id>
     <title>Gridea</title>
-    <updated>2020-03-19T20:08:27.286Z</updated>
+    <updated>2020-03-19T20:28:59.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://dstime.tk"/>
-    <link rel="self" href="https://dstime.tk/atom.xml"/>
+    <link rel="alternate" href="https://dstime"/>
+    <link rel="self" href="https://dstime/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://dstime.tk/images/avatar.png</logo>
-    <icon>https://dstime.tk/favicon.ico</icon>
+    <logo>https://dstime/images/avatar.png</logo>
+    <icon>https://dstime/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://dstime.tk/post/hello-gridea/</id>
-        <link href="https://dstime.tk/post/hello-gridea/">
+        <id>https://dstime/post/hello-gridea/</id>
+        <link href="https://dstime/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
